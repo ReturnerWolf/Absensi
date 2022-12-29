@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864801439677",
+    "project_id": "aplikasi-login-b8250",
+    "storage_bucket": "aplikasi-login-b8250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864801439677:android:ad247932dcee599891dcd4",
+        "android_client_info": {
+          "package_name": "info.fahri.aplikasicurhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864801439677-1k0pe7qrk5a3njpmtbopfgtq9gkchtmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzXtBc6PrqR3ve3mkSeuT9aCwzFedTJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864801439677-1k0pe7qrk5a3njpmtbopfgtq9gkchtmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
